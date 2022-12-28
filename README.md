@@ -1,8 +1,21 @@
 # Bloomberg
 
+This is a tecnical Evaluation FrontEnd for Bloomberg
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
+##Requisites
+
+- Install last version for Node.js in your PC
+- Install Angular CLI
+
 ## Development server
+
+To run this project, you have to: 
+- Clone repository
+- Open Terminal
+- Exe: npm install
+- For last step, exe: ng s -o
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
