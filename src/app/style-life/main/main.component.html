@@ -1,0 +1,9 @@
+<main class="main" *ngFor="let items of characters">
+      <div class="main__grid">
+            <ng-container *ngFor="let character of items; let i = index">
+                  <app-card class="{{'div'+ i}}" [character]="character"></app-card>
+            </ng-container>
+      </div>
+      <app-advertising></app-advertising>
+</main>
+
