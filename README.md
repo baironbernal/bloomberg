@@ -1,6 +1,6 @@
 # Bloomberg
 
-This is a tecnical Evaluation FrontEnd for Bloomberg
+This is a tecnical Evaluation FrontEnd for Bloomberg, in this i consume API Games of Thrones in Angular project and build the visual based at mockup in CSS using SASS-pre-procesor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
